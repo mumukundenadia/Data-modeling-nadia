@@ -1,0 +1,9 @@
+GROUP MEMEBERS
+
+Name: Rukundo Kevin
+Registration: 220013817
+Department: Computer Science
+
+Name: Mumukunde Ingabiye Nadia
+Registration: 221011046
+Department: Computer Science
